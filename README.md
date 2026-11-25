@@ -6,19 +6,10 @@
 
 https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f
 
-One line of awkward small talk that one robot says to another while riding an elevator together. Entry for the [Two Robots in an Elevator](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f) bounty on make.fun.
+One line of awkward small talk that one robot says to another while riding an elevator together. The entry is the line itself:
 
-> "My diagnostic says I'm fine, but my fan has been spinning since you got in."
+> "I was going to compliment your paint job, but my thermal camera caught me blushing at 42 degrees."
 
-The robot insists it is fine — its own cooling fan disagrees, spinning nervously since the other robot stepped in. Robot logic, forced politeness, and an awkwardness neither of them wants to name, in one tight line.
+The small talk starts politely (a compliment about the other robot's paint job), then the second beat lands: the speaker's own thermal camera catches it blushing at 42 degrees — robot logic and sensors betraying the awkwardness it was trying to hide. Machine politeness, a nervous sensor, and a concrete image to close on.
 
-## How it works
-
-`main.py` (Python 3, stdlib only) writes the line to `/output/entry.txt`. It is fully deterministic: same output on every run, no network, no randomness. A small validation checks the line is a single line of 1–200 characters before writing.
-
-## Run
-
-```sh
-python3 main.py
-cat /output/entry.txt
-```
+Run `python3 main.py` to write the line to `/output/entry.txt`.
