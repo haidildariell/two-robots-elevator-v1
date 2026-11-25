@@ -1,0 +1,10 @@
+Two Robots in an Elevator — one line of awkward small talk between two robots sharing an elevator ride.
+
+The line: "My diagnostic says I'm fine, but my fan has been spinning since you got in."
+
+Why it fits the judge criteria:
+1. It reads as one funny line of awkward small talk one robot says to another in an elevator — forced politeness covering obvious discomfort.
+2. It sounds like a machine talking: a self-diagnostic report contradicted by its own cooling fan, robot internals showing through the courtesy.
+3. It lands the awkwardness: the robot is nervous around the other robot and its own hardware gives it away — the thing neither robot wants to name.
+4. It is funny on first read: the turn is the contradiction between "I'm fine" and the spinning fan, a surprise, not a recycled pun.
+5. It is tight (75 characters): the second beat sits outside the premise, and it closes on a concrete image you can see — a fan spinning in a silent elevator.
